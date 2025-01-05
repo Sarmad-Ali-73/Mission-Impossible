@@ -1,0 +1,3 @@
+﻿  sarmad.cpp
+D:\sarmad\Lab Project...0827...0621....3007\sarmad.cpp(80,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PF Project Sarmad.vcxproj -> D:\sarmad\Lab Project...0827...0621....3007\x64\Debug\PF Project Sarmad.exe

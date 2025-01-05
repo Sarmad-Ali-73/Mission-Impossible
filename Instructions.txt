@@ -1,0 +1,36 @@
+========================================================
+||                    INSTRUCTIONS                    ||
+========================================================
+
+*Movements*
+Use arrow keys to move Ethan hunt.
+
+*Firing*
+'W' to fire up
+'S' to fire down
+'D' to fire right
+'A' to fire left
+
+*Score*
+Shoot enemies to get 2 score
+Level completion will give you 5 score
+
+*Missile*
+After every 10 score a missile will be activated
+Press space bar to launch the missile and kill a 
+random enemy
+
+*Soloman*
+Soloman will move random and can kill Ethan Hunt if
+touched. Soloman can not be killed.
+
+*Lives*
+Ethan hunt will have 3 lives. If hit by a bullet or
+collided with any obstacle or boundary will lose Ethan
+Hunt a life.
+
+*Levels*
+There are total 5 levels. Pass through the gaps in the
+boundaries,they are the gates to reach next level. Each
+increasing level will increase speed, number of enemies,
+number of obstacles and size of obstacles.
